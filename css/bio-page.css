@@ -2,7 +2,7 @@
 	display:block;
 	width:80%;
 	height:200px;
-	background-color:cyan;
+	background-color:black;
 	margin-top: 25px;
 	margin-left: 10%
 
@@ -13,5 +13,5 @@
 	background-color: black;
 	margin:0px auto;
 	overflow: hidden;
-	border-radius: 50%;
+	border-radius: 7px;
 }
