@@ -1,0 +1,16 @@
+.content-block{
+	display:block;
+	width:100%;
+	height:200px;
+	background-color:cyan;
+	margin-top: 25px;
+
+}
+.img-holder{
+	width:150px;
+	height:150px;
+	background-color: black;
+	margin:0px auto;
+	overflow: hidden;
+	
+}
