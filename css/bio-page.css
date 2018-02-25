@@ -1,14 +1,15 @@
 .content-block{
 	display:block;
-	width:100%;
+	width:80%;
 	height:200px;
 	background-color:cyan;
 	margin-top: 25px;
+	margin-left: 10%
 
 }
 .img-holder{
-	width:150px;
-	height:150px;
+	width:75px;
+	height:75px;
 	background-color: black;
 	margin:0px auto;
 	overflow: hidden;
