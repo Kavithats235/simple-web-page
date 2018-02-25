@@ -1,0 +1,14 @@
+body{
+	background-color: black;
+}
+.my-span{
+	background-color:cyan;
+	font-size: 50px;
+	margin-left: 50px ;
+	margin-top: 100px;
+	border:5px solid red;
+	color:magenta;
+}
+.person-name{
+	color: yellow;
+}
