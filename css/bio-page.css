@@ -1,17 +1,54 @@
+#name {
+    float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color:black;
+}
+
+#email{
+    float:right;
+    margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color:black;
+}
+
+
 .content-block{
+	text-align: left;
 	display:block;
 	width:80%;
 	height:200px;
-	background-color:black;
+	background-color:#ff8a80;
 	margin-top: 25px;
 	margin-left: 10%
 
 }
 .img-holder{
-	width:75px;
-	height:75px;
-	background-color: black;
-	margin:0px auto;
+	width:150px;
+	height:150px;
+	background-color: cyan;
+	margin:20px auto;
 	overflow: hidden;
-	border-radius: 7px;
+	border-radius: 50%;
+}
+#heading
+{
+    font-weight:bold;
+}
+table
+{
+    border: 1px dashed black;
+}
+td
+{
+    padding: 2px;
+    border: 1px solid #CE93D8;
+}
+#course-name
+{
+    font-weight:bold;
 }
